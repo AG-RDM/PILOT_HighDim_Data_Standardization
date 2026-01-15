@@ -91,4 +91,6 @@ Participation does not imply loss of data ownership.
 ## Contact
 
 For questions or contributions related to PILOT-HARMONY, please contact the INF coordination team  
-at the Institute of Medical Biometry and Statistics (IMBI), University of Freiburg.
+at the Institute of Medical Biometry and Statistics (IMBI), University of Freiburg or directly:
+ 
+Email: [aref.kalantari@uniklinik-freiburg.de](mailto:aref.kalantari@uniklinik-freiburg.de)
