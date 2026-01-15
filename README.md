@@ -40,20 +40,18 @@ The repository serves as a **transparent record of decisions, timelines, and rec
 
 ---
 
+## Projects
+
 ### Project #1: Data-intrinsic annotation and discovery using gene-to-text
 
 Project #1 implements the two agreed use cases by introducing a **data-intrinsic annotation layer**, derived directly from high-dimensional expression data rather than relying solely on author-provided labels or metadata.
 
 The central idea is to translate quantitative gene expression profiles into **standardized textual representations** (“gene-to-text”), which can be compared, searched, and validated across datasets in a reproducible manner.
 
----
-
 #### Use Case 1 — Internal Dataset Discovery by Biology
 
 **Goal**  
 Enable discovery of datasets based on biological characteristics (e.g. cell types, immune states, activation patterns), even when original annotations differ between studies.
-
----
 
 #### Use Case 2 — Internal Pattern Matching Across Datasets
 
