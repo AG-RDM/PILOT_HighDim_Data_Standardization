@@ -68,8 +68,8 @@ Table view
 
 | What | When | Responsible | Outcome / Comment |
 |---|---|---|---|
-| Identification of challenges & use cases | 05 Dec 2025 | Dr. Felix Engel, Dr. Katrin Kierdorf, Prof. Dr. med. Markus Sperandio, Prof. Dr. Claus-Werner Franzke, Dr. Anneke Haddad, Thomas, Maria, Dr. Sagar Sagar, Prof. Dr. Harald Binder, Dr. Michele Proietti, Dr. Gabriele Lubatti, PD Dr. Roman Sankowski, Aref Kalantari Sarcheshmeh | Two initial use cases defined |
-| Technical follow-up meeting & selection of initial test datasets | 26 Jan 2026 | Aref Kalantari Sarcheshmeh, Dr. Felix Engel, Dr. Sagar Sagar | Detailed discussion of existing data structures; agreement on next steps; selected initial test datasets |
+| Identification of challenges & use cases | 05 Dec 2025 | Dr. Felix Engel, Dr. Katrin Kierdorf, Prof. Dr. med. Markus Sperandio, Prof. Dr. Claus-Werner Franzke, Dr. Anneke Haddad, Thomas, Maria, Dr. Sagar Sagar, Prof. Dr. Harald Binder, Dr. Michele Proietti, Dr. Gabriele Lubatti, PD Dr. Roman Sankowski, Aref Kalantari | Two initial use cases defined |
+| Technical follow-up meeting & selection of initial test datasets | 26 Jan 2026 | Aref Kalantari , Dr. Felix Engel, Dr. Sagar Sagar | Detailed discussion of existing data structures; agreement on next steps; selected initial test datasets |
 
 </details>
 
