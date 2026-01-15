@@ -30,34 +30,6 @@ The repository serves as a **transparent record of decisions, timelines, and rec
 
 ---
 
-## Origin of the Project
-
-The project builds on discussions from the:
-
-- **PILOT–RDM High-dimensional Data Meeting (05 Dec 2025)**  
-  → identification of key challenges in data formats, metadata consistency, and dataset comparability  
-  → definition of two initial use cases
-
-- **Technical follow-up meeting (13 Jan 2026)**  
-  → detailed discussion of existing data structures and realistic next steps  
-  → agreement on reusing selected existing datasets as initial test data
-
----
-
-## Initial Use Cases
-
-### Use Case 1 — Internal Dataset Discovery by Biology  
-Enable discovery of datasets based on biological characteristics  
-(e.g. cell types, immune states, tissues), independent of original annotation choices.
-
-### Use Case 2 — Internal Pattern Matching Across Datasets  
-Enable identification of similar biological patterns across datasets  
-(e.g. comparable gene expression signatures or cell states).
-
-These use cases are intentionally scoped to be **testable, realistic, and extensible**.
-
----
-
 
 ## Roadmap
 
